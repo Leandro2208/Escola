@@ -38,4 +38,12 @@
 .escola-titulo{
     padding: 24px 0;
 }
+.rodape{
+background-color: rgb(117, 132, 197);
+text-align: center;
+}
+.rodape-imagem{
+height: 60px;
+padding: 12px 0;
+}
 
